@@ -1,5 +1,7 @@
 # Link on GitHub Pages: https://avanthoor.github.io/case-declension-deployed/
 
+# Backup repository: https://github.com/avanthoor/case-declension-deployed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
