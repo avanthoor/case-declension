@@ -1,4 +1,4 @@
-# Link on GitHub Pages: https://avanthoor.github.io/case-declension/
+# Link on GitHub Pages: https://avanthoor.github.io/case-declension-deployed/
 
 # Getting Started with Create React App
 
